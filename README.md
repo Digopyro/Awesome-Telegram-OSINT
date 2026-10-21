@@ -28,6 +28,8 @@
 * [Telegra.ph Search Engine](https://telegcrack.com/)
 
 ## [↑](#contents) Directories And Catalogues
+* [TG Hub](https://tghub.group/) – Diretório de grupos, canais e bots do Telegram, com link verificado pelo bot.
+* [TG Hub +18](https://tghub.group/adult/) – Diretório separado de grupos e canais Telegram adultos, só para maiores de 18 anos, com link verificado.
 * [TelegramDB](https://telegramdb.org/)
 * [Telemetrio](https://telemetr.io/en/channels)
 * [TGStat](https://tgstat.ru/)
